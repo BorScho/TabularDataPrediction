@@ -1,4 +1,4 @@
-name: Pytorch_env
+name: conda_tabularData
 channels:
   - pytorch
   - conda-forge
@@ -14,4 +14,4 @@ dependencies:
   - pytorch=1.9.*
   - scikit-learn=0.24.*
   - tensorboard=2.5.*
- prefix: C:\Users\BoSc\anaconda3\envs\Pytorch_env
+prefix: C:\Users\BoSc\anaconda3\envs\conda_tabularData
